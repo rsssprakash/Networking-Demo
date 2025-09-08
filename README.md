@@ -18,3 +18,12 @@ LAN = Office Wi-Fi or home router
 MAN = A city’s government offices network
 
 WAN = The Internet / banking networks across countries
+
+##DHCP 
+DHCP is a network protocol that automatically assigns IP addresses and other network settings to devices in a network, 
+so they can communicate without manual configuration.”
+
+✅ Example:
+“When I connect my phone to office Wi-Fi, the DHCP server (usually the router) automatically gives my phone an IP address.
+Without DHCP, I would have to set the IP manually.
+
